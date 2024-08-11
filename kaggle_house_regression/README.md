@@ -1,6 +1,6 @@
 # House Price Prediction Project
 
-This project aims to predict house prices using the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) competition dataset from Kaggle. This dataset includes 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, making it a rich resource for applying various machine learning techniques.
+This project aims to predict house prices using the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) competition dataset from Kaggle. This dataset includes 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, making it a rich resource for applying various machine-learning techniques.
 
 ## Table of Contents
 
@@ -62,8 +62,4 @@ This project successfully applied various regression techniques to predict house
 ## Acknowledgments
 
 The dataset was compiled by Dean De Cock for use in data science education. It is a modern alternative to the Boston Housing dataset and offers extensive opportunities for feature engineering and model testing.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
